@@ -1,4 +1,14 @@
-### Hi there 👋
+# Deadly Surgery
+
+Quite an unfortunate turn of events
+
+
+## About me, I guess
+
+I'm a software engineer located in Missouri, US, and have been developing software professionally since 2015. My speciality is backend services, primarily ran on cloud infrastructure. I mostly use Golang but I can pretty much use any language thrown at me, the most annoying one being COBOL (jk it's PHP, 10 times worse). 
+
+The project I'm currently working on revolves around micro controllers, and figuring out why my ESP32 is dropping TCP connections without informing me. 
+
 
 <!--
 **DeadlySurgeon/DeadlySurgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
